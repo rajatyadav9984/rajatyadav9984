@@ -8,9 +8,9 @@
 
   <br/><br/>
 
-  [![Email](https://img.shields.io/badge/Email-rajatyadav998424%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatyadav998424@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rjt--yadav-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjt-yadav/)
-  [![GitHub](https://img.shields.io/badge/GitHub-rajatyadav9984-7B42BC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatyadav9984)
+  [![Email](https://img.shields.io/badge/rajatyadav998424%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatyadav998424@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjt-yadav/)
+  [![GitHub](https://img.shields.io/badge/GitHub-7B42BC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatyadav9984)
   [![Profile Views](https://komarev.com/ghpvc/?username=rajatyadav9984&label=Profile%20Views&color=0078D4&style=for-the-badge)](https://github.com/rajatyadav9984)
 
 </div>
