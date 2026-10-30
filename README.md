@@ -19,14 +19,79 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated and hands-on **Junior DevOps Engineer** with a solid foundation in **Microsoft Azure**, **Terraform (IaC)**, **Linux systems**, and **CI/CD pipeline automation**.
+```yaml
+engineer:
+  name: "Rajat Yadav"
+  role: "Junior DevOps Engineer"
+  primary_cloud: "Microsoft Azure"
+  iac_preference: "Terraform (HCL)"
+  philosophy: "Automate early, build resilient architectures, and fail forward."
+  learning_focus: "Kubernetes (K8s) Cluster Architecture & Container Orchestration"
+```
 
-I focus on building repeatable, automated cloud environments and streamlining software delivery through continuous integration and deployment. I am passionate about learning industry best practices, writing clean Infrastructure as Code, and expanding my skillset in containerization and modern cloud operations.
+I am a proactive and detail-oriented **Junior DevOps Engineer** specializing in **Microsoft Azure**, **Terraform (IaC)**, **Linux environments**, and **CI/CD pipeline automation**.
 
-- 🔭 **Current Focus:** Deploying modular infrastructure on Azure using Terraform & automating workflows with GitHub Actions.
-- 🌱 **Learning Stage:** Actively sharpening my skills in **Kubernetes (K8s)** architecture, cluster orchestration, and container security.
-- 🐧 **Core Strengths:** Linux administration, Shell scripting, Git version control, and infrastructure automation.
-- 🎯 **Career Goal:** Contributing to agile engineering teams as a reliable Junior DevOps Engineer and automating scalable cloud solutions.
+I bridge the gap between development and cloud operations by creating repeatable, zero-touch deployment pipelines and building stable cloud infrastructure from code. Rather than just understanding concepts theoretically, I implement real-world cloud architectures with hands-on projects, automated test/deploy workflows, and containerized microservices.
+
+- 🔭 **Current Focus:** Engineering modular Terraform infrastructure on Azure and multi-stage CI/CD pipelines with GitHub Actions.
+- 🌱 **Learning Stage:** Deep-diving into **Kubernetes (K8s)** pods, services, ingress controllers, and cluster observability.
+- 🐧 **Core Strengths:** Linux administration, Bash scripting, Git workflows, and modular Infrastructure as Code.
+- 🎯 **Career Goal:** Delivering value as a high-performing Junior DevOps Engineer in progressive, cloud-first organizations.
+
+---
+
+### 🚀 Flagship Real-World Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 <a href="https://github.com/rajatyadav9984/DermaAgent-DevOps">DermaAgent-DevOps</a></h3>
+      <p align="center">
+        <a href="https://github.com/rajatyadav9984/DermaAgent-DevOps"><img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" alt="Status"></a>
+        <a href="https://github.com/rajatyadav9984/DermaAgent-DevOps"><img src="https://img.shields.io/badge/Azure-Container%20Apps-0078D4?style=flat-square&logo=microsoftazure" alt="Azure"></a>
+        <a href="https://github.com/rajatyadav9984/DermaAgent-DevOps"><img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform" alt="Terraform"></a>
+      </p>
+      <p><strong>Cloud-Native AI Skin Screening Architecture:</strong></p>
+      <ul>
+        <li>Automated provisioning of <strong>Azure Container Apps</strong>, Container Registry (ACR), and Networking using Terraform.</li>
+        <li>Zero-downtime continuous deployment driven by <strong>GitHub Actions</strong> pipelines.</li>
+        <li>Health probe endpoints, automated TLS/SSL configuration, and container environment management.</li>
+      </ul>
+      <p align="center">
+        🔗 <a href="https://github.com/rajatyadav9984/DermaAgent-DevOps"><strong>Explore DermaAgent DevOps Repo →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 <a href="https://github.com/rajatyadav9984/healthpulse-devops-platform">HealthPulse DevOps Platform</a></h3>
+      <p align="center">
+        <a href="https://github.com/rajatyadav9984/healthpulse-devops-platform"><img src="https://img.shields.io/badge/Architecture-Cloud%20Native-blue?style=flat-square" alt="Architecture"></a>
+        <a href="https://github.com/rajatyadav9984/healthpulse-devops-platform"><img src="https://img.shields.io/badge/CI%2FCD-Automated-orange?style=flat-square&logo=githubactions" alt="CI/CD"></a>
+        <a href="https://github.com/rajatyadav9984/healthpulse-devops-platform"><img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker" alt="Docker"></a>
+      </p>
+      <p><strong>Production-Grade Healthcare Operations Platform:</strong></p>
+      <ul>
+        <li>Enterprise-pattern deployment showcasing automated build, scan, and release workflows.</li>
+        <li>Features a unified <strong>Digital Hospital Command Center</strong> dashboard.</li>
+        <li>Designed with containerized services, monitoring hooks, and resilient operational pipelines.</li>
+      </ul>
+      <p align="center">
+        🔗 <a href="https://github.com/rajatyadav9984/healthpulse-devops-platform"><strong>Explore HealthPulse Repo →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔄 DevOps Workflow Architecture
+
+```mermaid
+flowchart LR
+    A["💻 Local Dev & Git Commit"] --> B["⚙️ GitHub Actions CI\n(Lint, Test, Docker Build)"]
+    B --> C["📦 Container Registry\n(Azure ACR / DockerHub)"]
+    C --> D["🏗️ Terraform IaC\n(Azure Resource Deployment)"]
+    D --> E["☁️ Azure Container Apps\n(Production Runtime & Health Probes)"]
+```
 
 ---
 
@@ -58,15 +123,14 @@ I focus on building repeatable, automated cloud environments and streamlining so
 
 ---
 
-### 📂 Featured Repositories & Hands-On Projects
+### 📂 Hands-On Terraform & Cloud Labs
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| 🌐 [**azure-terraform-infrastructure**](https://github.com/rajatyadav9984/azure-terraform-infrastructure) | Azure & Terraform | Provisioning core Microsoft Azure cloud resources using modular Terraform HCL scripts. |
-| 🏥 [**healthpulse-devops-platform**](https://github.com/rajatyadav9984/healthpulse-devops-platform) | CI/CD & DevOps | End-to-end DevOps deployment platform demonstrating automated build and delivery workflows. |
-| 🧪 [**terraform-azure-labs**](https://github.com/rajatyadav9984/terraform-azure-labs) | Infrastructure as Code | Practical hands-on lab configurations for provisioning Azure infrastructure via Terraform. |
-| 🔗 [**Terraform-Implicit-Explicit-Dependency**](https://github.com/rajatyadav9984/Terraform-Implicit-Explicit-Dependency) | Terraform Deep Dive | Detailed demonstration of handling implicit and explicit resource dependencies in Terraform. |
-| 📦 [**terraform-azure-resource-group**](https://github.com/rajatyadav9984/terraform-azure-resource-group) | Azure Governance | Automated creation and management of Azure Resource Groups with tags and lifecycle rules. |
+| 🌐 [**azure-terraform-infrastructure**](https://github.com/rajatyadav9984/azure-terraform-infrastructure) | Azure & Terraform | Modular HCL code for provisioning core virtual networks, subnets, and compute resources. |
+| 🧪 [**terraform-azure-labs**](https://github.com/rajatyadav9984/terraform-azure-labs) | Hands-On Labs | Step-by-step practical implementation labs exploring Azure cloud infrastructure. |
+| 🔗 [**Terraform-Implicit-Explicit-Dependency**](https://github.com/rajatyadav9984/Terraform-Implicit-Explicit-Dependency) | Terraform Concepts | In-depth demonstration of `depends_on` and graph execution in Terraform deployments. |
+| 📦 [**terraform-azure-resource-group**](https://github.com/rajatyadav9984/terraform-azure-resource-group) | Azure Governance | Automated governance patterns for resource groups with lifecycle and tagging policies. |
 
 ---
 
